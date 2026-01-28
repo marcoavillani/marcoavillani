@@ -25,7 +25,6 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [argprops](https://github.com/marcoavillani/argprops) | Data Science project | Jupyter Notebook |
-| [sherpaner](https://github.com/marcoavillani/sherpaner) | Personal transformation journeys platform | TypeScript |
 | [conversor](https://github.com/marcoavillani/conversor) | Converter tool | JavaScript |
 
 🔜 More data engineering projects coming soon!
@@ -40,7 +39,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/marcoavillani) *(update with your real link)*
+- 💼 [LinkedIn](https://linkedin.com/in/marcoavillani)
 - 📧 Reach out via GitHub
 
 ---
